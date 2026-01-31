@@ -4,7 +4,7 @@ const TARGET_URL = process.env.TARGET_URL || 'https://www.swifttranslator.com/';
 
 const testCases = [
   { id: 'Pos_Fun_01', input: 'mama gedhara yanv.', expected: 'මම ගෙදර යනවා.' },
-  { id: 'Pos_Fun_02', input: 'mama gedhara yanavaa namuth vahinavaa.', expected: 'මම ගෙදර යනවා නමුත් වහිනවා.' },
+  { id: 'Pos_Fun_02', input: 'kasuni baya venna epaa, mama yannam.', expected: 'කසුනි බය වෙන්න එපා, මම යන්නම්.' },
   { id: 'Pos_Fun_03', input: 'oya enavaanam mama balan innavaa.', expected: 'ඔය එනවානම් මම බලන් ඉන්නවා.' },
   { id: 'Pos_Fun_04', input: 'oyaata kohomadha?', expected: 'ඔයාට කොහොමද?' },
   { id: 'Pos_Fun_05', input: 'meeka vahaama karanna.', expected: 'මේක වහාම කරන්න.' },
