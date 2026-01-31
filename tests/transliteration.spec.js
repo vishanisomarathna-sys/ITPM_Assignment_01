@@ -35,8 +35,7 @@ const testCases = [
   { id: 'Neg_Fun_06', input: 'mama adha campus yana atharamaga magee id eka nathi vunaa', expected: 'මම අද campus යන අතරමග මගේ id එක නැති වුනා' },
   { id: 'Neg_Fun_07', input: 'himaashi exam eka pass vunoth campus ynn puluvan.', expected: 'හිමාශි exam එක pass වුනොත් campus යන්න පුලුවන්.' },
   { id: 'Neg_Fun_08', input: 'mama gedhara ynv, namuth traffic eka godak thiyenavaa.', expected: 'මම ගෙදර යනවා, නමුත් traffic එක ගොඩක් තියෙනවා.' },
-  // { id: 'Neg_Fun_09', input: 'api adha lunch ekata eliyata ynv.', expected: 'අපි අද lunch එකට එලියට යනවා.' },
-  { id: 'Neg_Fun_09', input: 'mn adha office giya palaveni dhavasa nisaa tikak confuse velaa hitiyee namuth vaeda tika hodhata karapu nisaa haemooma maava appreciate kalaa', expected: 'මං අද office ගිය පලවෙනි දවස නිසා ටිකක් confuse වෙලා හිටියේ නමුත් වැඩ ටික හොදට කරපු නිසා හැමෝම මාව appreciate කලා' },
+  { id: 'Neg_Fun_10', input: 'mn adha office giya palaveni dhavasa nisaa tikak confuse velaa hitiyee namuth vaeda tika hodhata karapu nisaa haemooma maava appreciate kalaa', expected: 'මං අද office ගිය පලවෙනි දවස නිසා ටිකක් confuse වෙලා හිටියේ නමුත් වැඩ ටික හොදට කරපු නිසා හැමෝම මාව appreciate කලා' },
   { id: 'Pos_UI_01', input: 'adha lab ekeedhi apita individual evaluation ekak karanna dhunnaa', expected: 'අද lab එකේදි අපිට individual evaluation එකක් කරන්න දුන්නා' },
 ];
 
